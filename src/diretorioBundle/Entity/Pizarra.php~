@@ -1,0 +1,77 @@
+<?php
+
+namespace diretorioBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Pizarra
+ *
+ * @ORM\Table(name="pizarra")
+ * @ORM\Entity(repositoryClass="diretorioBundle\Repository\PizarraRepository")
+ */
+class Pizarra
+{
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="numero", type="string", length=15)
+     * */
+    private $numero;
+
+
+    /**
+     * @ORM\ManyToOne(targetEntity="Empresa", inversedBy="pizarras")
+     * @ORM\JoinColumn(name="empresa_id", referencedColumnName="id")
+     */
+    private $empresa;
+
+    /**
+     * @ORM\OneToMany(targetEntity="Extencion", mappedBy="pizarra")
+     */
+    private $extenciones;
+
+    /**
+     * Get id
+     *
+     * @return integer
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set numero
+     *
+     * @param string $numero
+     *
+     * @return Pizarra
+     */
+    public function setNumero($numero)
+    {
+        $this->numero = $numero;
+    
+        return $this;
+    }
+
+    /**
+     * Get numero
+     *
+     * @return string
+     */
+    public function getNumero()
+    {
+        return $this->numero;
+    }
+}
+

@@ -1,0 +1,64 @@
+<?php
+
+namespace diretorioBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Direccion
+ *
+ * @ORM\Table(name="direccion")
+ * @ORM\Entity(repositoryClass="diretorioBundle\Repository\DireccionRepository")
+ */
+class Direccion
+{
+    /**
+     * @var int
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="nombre", type="string", length=100)
+     */
+    private $nombre;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="Empresa", inversedBy="direcciones")
+     * @ORM\JoinColumn(name="empresa_id", referencedColumnName="id")
+     */
+    private $empresa;
+
+    /**
+     * @ORM\OneToMany(targetEntity="Departamento", mappedBy="departamento")
+     */
+    private $departamentos;
+
+    /**
+     * @ORM\OneToMany(targetEntity="Telefono", mappedBy="direccion",cascade={"all"})
+     */
+    private $telefonos;
+
+
+    /**
+     * @ORM\OneToMany(targetEntity="Extencion", mappedBy="direccion")
+     */
+    private $extenciones;
+
+
+    /**
+     * Get id
+     *
+     * @return integer
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+}
+

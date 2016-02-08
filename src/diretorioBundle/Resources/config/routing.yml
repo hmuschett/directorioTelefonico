@@ -1,0 +1,4 @@
+diretorio_direccion:
+    resource: "@diretorioBundle/Resources/config/routing/direccion.yml"
+    prefix:   /direccion
+

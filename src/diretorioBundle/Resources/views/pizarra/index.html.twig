@@ -1,0 +1,39 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Pizarra list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Numero</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for pizarra in pizarras %}
+            <tr>
+                <td><a href="{{ path('pizarra_show', { 'id': pizarra.id }) }}">{{ pizarra.id }}</a></td>
+                <td>{{ pizarra.numero }}</td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('pizarra_show', { 'id': pizarra.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('pizarra_edit', { 'id': pizarra.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('pizarra_new') }}">Create a new entry</a>
+        </li>
+    </ul>
+{% endblock %}

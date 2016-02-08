@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head lang="es">
+    <meta charset="UTF-8" />
+    <title>{% block title %}Directorio Telefónico{% endblock %}</title>
+    <link rel="stylesheet" href="{{ asset('bundles/diretorio/css/bootstrap.min.css') }}" type="text/css" >
+    <link rel="stylesheet" href="{{ asset('bundles/diretorio/css/cerulean-boostwash.min.css') }}" type="text/css" >
+    {% block stylesheets %}{% endblock %}
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+</head>
+<body>
+
+{% block body %}{% endblock %}
+{% block javascripts %}{% endblock %}
+</body>
+</html>

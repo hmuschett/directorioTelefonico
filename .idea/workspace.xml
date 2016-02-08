@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44d66ec4-02a1-4112-a636-e612d82dc296" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_less.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/blue_picto_more.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/grey_magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/images/logo_symfony.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/body.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/diretorio/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/cerulean-boostwash.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/composerJson.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/directorioTelefonico.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/exception.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bundles/framework/css/structure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/template.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\directorioTelefonico\web\bundles\framework" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/sensio/generator-bundle/Resources/skeleton/form/FormType.php.twig" afterPath="$PROJECT_DIR$/vendor/sensio/generator-bundle/Resources/skeleton/form/FormType.php.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+    </list>
+    <ignored path="directorioTelefonico.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - directoriotelefonico@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="directorioTelefonico" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="template.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/template.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16943522">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/telefono/edit.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="17" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#46#103#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cerulean-boostwash.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/cerulean-boostwash.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Empresa.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Empresa.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="265" column="2" selection-start-line="265" selection-start-column="2" selection-end-line="268" selection-end-column="5" />
+              <folding>
+                <element signature="e#227#366#0#PHP" expanded="false" />
+                <element signature="e#389#487#0#PHP" expanded="false" />
+                <element signature="e#514#615#0#PHP" expanded="false" />
+                <element signature="e#645#724#0#PHP" expanded="false" />
+                <element signature="e#758#836#0#PHP" expanded="false" />
+                <element signature="e#867#944#0#PHP" expanded="false" />
+                <element signature="e#973#1052#0#PHP" expanded="false" />
+                <element signature="e#1085#1140#0#PHP" expanded="false" />
+                <element signature="e#1145#1206#0#PHP" expanded="false" />
+                <element signature="e#1212#1307#0#PHP" expanded="false" />
+                <element signature="e#1312#1418#0#PHP" expanded="false" />
+                <element signature="e#1424#1482#0#PHP" expanded="false" />
+                <element signature="e#1487#1556#0#PHP" expanded="false" />
+                <element signature="e#1562#1663#0#PHP" expanded="false" />
+                <element signature="e#1668#1786#0#PHP" expanded="false" />
+                <element signature="e#1792#1853#0#PHP" expanded="false" />
+                <element signature="e#1858#1933#0#PHP" expanded="false" />
+                <element signature="e#1938#1968#0#PHP" expanded="false" />
+                <element signature="e#1973#2333#0#PHP" expanded="false" />
+                <element signature="e#2339#2469#0#PHP" expanded="false" />
+                <element signature="e#2474#2633#0#PHP" expanded="false" />
+                <element signature="e#2639#2742#0#PHP" expanded="false" />
+                <element signature="e#2747#2894#0#PHP" expanded="false" />
+                <element signature="e#2900#2996#0#PHP" expanded="false" />
+                <element signature="e#3001#3080#0#PHP" expanded="false" />
+                <element signature="e#3086#3211#0#PHP" expanded="false" />
+                <element signature="e#3216#3366#0#PHP" expanded="false" />
+                <element signature="e#3372#3470#0#PHP" expanded="false" />
+                <element signature="e#3475#3613#0#PHP" expanded="false" />
+                <element signature="e#3619#3713#0#PHP" expanded="false" />
+                <element signature="e#3718#3793#0#PHP" expanded="false" />
+                <element signature="e#3799#3921#0#PHP" expanded="false" />
+                <element signature="e#3926#4071#0#PHP" expanded="false" />
+                <element signature="e#4077#4172#0#PHP" expanded="false" />
+                <element signature="e#4177#4310#0#PHP" expanded="false" />
+                <element signature="e#4316#4409#0#PHP" expanded="false" />
+                <element signature="e#4414#4487#0#PHP" expanded="false" />
+                <element signature="e#4493#4623#0#PHP" expanded="false" />
+                <element signature="e#4628#4787#0#PHP" expanded="false" />
+                <element signature="e#4793#4896#0#PHP" expanded="false" />
+                <element signature="e#4901#5048#0#PHP" expanded="false" />
+                <element signature="e#5054#5150#0#PHP" expanded="false" />
+                <element signature="e#5155#5234#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Direccion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Direccion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+              <folding>
+                <element signature="e#235#374#0#PHP" expanded="false" />
+                <element signature="e#397#495#0#PHP" expanded="false" />
+                <element signature="e#522#674#0#PHP" expanded="false" />
+                <element signature="e#702#789#0#PHP" expanded="false" />
+                <element signature="e#823#919#0#PHP" expanded="false" />
+                <element signature="e#950#1031#0#PHP" expanded="false" />
+                <element signature="e#1064#1119#0#PHP" expanded="false" />
+                <element signature="e#1124#1185#0#PHP" expanded="false" />
+                <element signature="e#1190#1220#0#PHP" expanded="false" />
+                <element signature="e#1225#1509#0#PHP" expanded="false" />
+                <element signature="e#1515#1612#0#PHP" expanded="false" />
+                <element signature="e#1617#1723#0#PHP" expanded="false" />
+                <element signature="e#1729#1787#0#PHP" expanded="false" />
+                <element signature="e#1792#1861#0#PHP" expanded="false" />
+                <element signature="e#1867#1991#0#PHP" expanded="false" />
+                <element signature="e#1996#2145#0#PHP" expanded="false" />
+                <element signature="e#2151#2235#0#PHP" expanded="false" />
+                <element signature="e#2317#2456#0#PHP" expanded="false" />
+                <element signature="e#2461#2631#0#PHP" expanded="false" />
+                <element signature="e#2637#2747#0#PHP" expanded="false" />
+                <element signature="e#2752#2910#0#PHP" expanded="false" />
+                <element signature="e#2916#3014#0#PHP" expanded="false" />
+                <element signature="e#3019#3102#0#PHP" expanded="false" />
+                <element signature="e#3108#3235#0#PHP" expanded="false" />
+                <element signature="e#3240#3390#0#PHP" expanded="false" />
+                <element signature="e#3396#3494#0#PHP" expanded="false" />
+                <element signature="e#3499#3637#0#PHP" expanded="false" />
+                <element signature="e#3643#3737#0#PHP" expanded="false" />
+                <element signature="e#3742#3817#0#PHP" expanded="false" />
+                <element signature="e#3823#3955#0#PHP" expanded="false" />
+                <element signature="e#3960#4119#0#PHP" expanded="false" />
+                <element signature="e#4125#4228#0#PHP" expanded="false" />
+                <element signature="e#4233#4380#0#PHP" expanded="false" />
+                <element signature="e#4386#4482#0#PHP" expanded="false" />
+                <element signature="e#4487#4566#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="twig" />
+      </list>
+    </option>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="s doctrine:generate:entities  directorioMainBundle:Empresa" />
+      <command text="s doctrine:generate:entities  directorioMainBundle:Entity" />
+      <command text="s doctrine:generate:entities  directorioMainBundle:Empresa" />
+      <command text="s doctrine:generate:entities  directorioMainBundle" />
+      <command text="s cache:clear" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities directorioMainBundle:Empresa" />
+      <command text="s doctrine:generate:entities directorioMainBundle:Direccion" />
+      <command text="s doctrine:schema:update" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entity" />
+      <command text="s doctrine:schema:update" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:schema:create --force" />
+      <command text="s doctrine:schema:update --help" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:schema:drop" />
+      <command text="s generate:bundle " />
+      <command text="s doctrine:generate:entity " />
+      <command text="s assets:install web" />
+      <command text="s doctrine:generate:crud diretorioBundle:Empresa" />
+      <command text="diretorioBundle:Empresa" />
+      <command text="s doctrine:generate:crud " />
+      <command text="diretorioBundle:Telefono" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/directorioMainBundle/Entity/empresa.php" />
+        <option value="$PROJECT_DIR$/src/directorioMainBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/directorioMainBundle/Entity/Telefono.php" />
+        <option value="$PROJECT_DIR$/src/directorioMainBundle/Entity/Direccion.php" />
+        <option value="$PROJECT_DIR$/src/directorioMainBundle/Entity/Empresa.php" />
+        <option value="$PROJECT_DIR$/src/directorioMainBundle/Entity/Departemento.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Entity/Telefono.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Entity/Departamento.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Entity/Pizarra.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Entity/Extencion.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Twig/Extension/layaout.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/vendor/sensio/generator-bundle/Resources/skeleton/form/FormType.php.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/TelefonoController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/PizarraController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/EmpresaController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/DireccionController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/ExtencionController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/DepartamentoController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Entity/Empresa.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Entity/Direccion.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/cerulean-boostwash.min.css" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/template.html.twig" />
+        <option value="$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/index.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bundles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bundles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diretorio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directorioTelefonico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bundles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diretorio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gesei" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\directorioTelefonico\src\diretorioBundle\Resources\public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\directorioTelefonico\src\diretorioBundle\Resources\views" />
+      <recent name="C:\xampp\htdocs\directorioTelefonico\app\Resources\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Direccion.php">
+    <configuration default="false" name="Direccion.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/directorioTelefonico/src/diretorioBundle/Entity/Direccion.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Direccion.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Direccion.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44d66ec4-02a1-4112-a636-e612d82dc296" name="Default" comment="" />
+      <created>1450891919705</created>
+      <option name="number" value="Default" />
+      <updated>1450891919705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.262945" sideWeight="0.49584815" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49676377" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976275" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2218268" sideWeight="0.49029127" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2588997" sideWeight="0.5041518" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1096" height="800" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.49271846" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.49190938" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976275" sideWeight="0.4935275" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/diretorioBundle/Entity/Direccion.php</url>
+          <line>224</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/diretorioBundle/Entity/Direccion.php</url>
+          <line>225</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/DepartamentoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/departamento/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Direccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#235#374#0#PHP" expanded="false" />
+            <element signature="e#397#495#0#PHP" expanded="false" />
+            <element signature="e#522#674#0#PHP" expanded="false" />
+            <element signature="e#702#789#0#PHP" expanded="false" />
+            <element signature="e#823#919#0#PHP" expanded="false" />
+            <element signature="e#950#1031#0#PHP" expanded="false" />
+            <element signature="e#1064#1119#0#PHP" expanded="false" />
+            <element signature="e#1124#1185#0#PHP" expanded="false" />
+            <element signature="e#1190#1220#0#PHP" expanded="false" />
+            <element signature="e#1225#1509#0#PHP" expanded="false" />
+            <element signature="e#1515#1612#0#PHP" expanded="false" />
+            <element signature="e#1617#1723#0#PHP" expanded="false" />
+            <element signature="e#1729#1787#0#PHP" expanded="false" />
+            <element signature="e#1792#1861#0#PHP" expanded="false" />
+            <element signature="e#1867#1991#0#PHP" expanded="false" />
+            <element signature="e#1996#2145#0#PHP" expanded="false" />
+            <element signature="e#2151#2235#0#PHP" expanded="false" />
+            <element signature="e#2317#2456#0#PHP" expanded="false" />
+            <element signature="e#2461#2631#0#PHP" expanded="false" />
+            <element signature="e#2637#2747#0#PHP" expanded="false" />
+            <element signature="e#2752#2910#0#PHP" expanded="false" />
+            <element signature="e#2916#3014#0#PHP" expanded="false" />
+            <element signature="e#3019#3102#0#PHP" expanded="false" />
+            <element signature="e#3108#3235#0#PHP" expanded="false" />
+            <element signature="e#3240#3390#0#PHP" expanded="false" />
+            <element signature="e#3396#3494#0#PHP" expanded="false" />
+            <element signature="e#3499#3637#0#PHP" expanded="false" />
+            <element signature="e#3643#3737#0#PHP" expanded="false" />
+            <element signature="e#3742#3817#0#PHP" expanded="false" />
+            <element signature="e#3823#3955#0#PHP" expanded="false" />
+            <element signature="e#3960#4119#0#PHP" expanded="false" />
+            <element signature="e#4125#4228#0#PHP" expanded="false" />
+            <element signature="e#4233#4380#0#PHP" expanded="false" />
+            <element signature="e#4386#4482#0#PHP" expanded="false" />
+            <element signature="e#4487#4566#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Empresa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="202" column="12" selection-start-line="202" selection-start-column="12" selection-end-line="202" selection-end-column="12" />
+          <folding>
+            <element signature="e#227#366#0#PHP" expanded="false" />
+            <element signature="e#389#487#0#PHP" expanded="false" />
+            <element signature="e#514#615#0#PHP" expanded="false" />
+            <element signature="e#645#724#0#PHP" expanded="false" />
+            <element signature="e#758#836#0#PHP" expanded="false" />
+            <element signature="e#867#944#0#PHP" expanded="false" />
+            <element signature="e#973#1052#0#PHP" expanded="false" />
+            <element signature="e#1085#1140#0#PHP" expanded="false" />
+            <element signature="e#1145#1206#0#PHP" expanded="false" />
+            <element signature="e#1212#1307#0#PHP" expanded="false" />
+            <element signature="e#1312#1418#0#PHP" expanded="false" />
+            <element signature="e#1424#1482#0#PHP" expanded="false" />
+            <element signature="e#1487#1556#0#PHP" expanded="false" />
+            <element signature="e#1562#1663#0#PHP" expanded="false" />
+            <element signature="e#1668#1786#0#PHP" expanded="false" />
+            <element signature="e#1792#1853#0#PHP" expanded="false" />
+            <element signature="e#1858#1933#0#PHP" expanded="false" />
+            <element signature="e#1938#1968#0#PHP" expanded="false" />
+            <element signature="e#1973#2333#0#PHP" expanded="false" />
+            <element signature="e#2339#2469#0#PHP" expanded="false" />
+            <element signature="e#2474#2633#0#PHP" expanded="false" />
+            <element signature="e#2639#2742#0#PHP" expanded="false" />
+            <element signature="e#2747#2894#0#PHP" expanded="false" />
+            <element signature="e#2900#2996#0#PHP" expanded="false" />
+            <element signature="e#3001#3080#0#PHP" expanded="false" />
+            <element signature="e#3086#3211#0#PHP" expanded="false" />
+            <element signature="e#3216#3366#0#PHP" expanded="false" />
+            <element signature="e#3372#3470#0#PHP" expanded="false" />
+            <element signature="e#3475#3613#0#PHP" expanded="false" />
+            <element signature="e#3619#3713#0#PHP" expanded="false" />
+            <element signature="e#3718#3793#0#PHP" expanded="false" />
+            <element signature="e#3799#3921#0#PHP" expanded="false" />
+            <element signature="e#3926#4071#0#PHP" expanded="false" />
+            <element signature="e#4077#4172#0#PHP" expanded="false" />
+            <element signature="e#4177#4310#0#PHP" expanded="false" />
+            <element signature="e#4316#4409#0#PHP" expanded="false" />
+            <element signature="e#4414#4487#0#PHP" expanded="false" />
+            <element signature="e#4493#4623#0#PHP" expanded="false" />
+            <element signature="e#4628#4787#0#PHP" expanded="false" />
+            <element signature="e#4793#4896#0#PHP" expanded="false" />
+            <element signature="e#4901#5048#0#PHP" expanded="false" />
+            <element signature="e#5054#5150#0#PHP" expanded="false" />
+            <element signature="e#5155#5234#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Pizarra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Extencion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/template.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/EmpresaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/config/routing/departamento.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+          <folding>
+            <element signature="e#46#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="522" selection-start-line="4" selection-start-column="522" selection-end-line="4" selection-end-column="522" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4ba13729-55b0-44c1-848a-a40087afd42c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d764dbe9-fd99-4f33-a49f-190f433cd781/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23700887">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Repository/TelefonoRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Repository/PizarraRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Telefono.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-69.96154">
+          <caret line="141" column="4" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Departamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-72.19231">
+          <caret line="164" column="7" selection-start-line="164" selection-start-column="7" selection-end-line="164" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Pizarra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="522" selection-start-line="4" selection-start-column="522" selection-end-line="4" selection-end-column="522" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/config/routing/departamento.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/sensio/generator-bundle/Resources/skeleton/form/FormType.php.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6679341">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Form/EmpresaType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Form/TelefonoType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Form/DepartamentoType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/empresa/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/telefono/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34474018">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021546261">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/departamento/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/PizarraController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6225166">
+          <caret line="97" column="54" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/TelefonoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3090508">
+          <caret line="97" column="64" selection-start-line="97" selection-start-column="64" selection-end-line="97" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/EmpresaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20656635">
+          <caret line="97" column="54" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/DireccionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20656635">
+          <caret line="97" column="56" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Extencion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.23700887">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/extencion/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/ExtencionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2859098">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="72" selection-end-line="71" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/DepartamentoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5475285">
+          <caret line="55" column="75" selection-start-line="55" selection-start-column="75" selection-end-line="55" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Empresa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="265" column="2" selection-start-line="265" selection-start-column="2" selection-end-line="268" selection-end-column="5" />
+          <folding>
+            <element signature="e#227#366#0#PHP" expanded="false" />
+            <element signature="e#389#487#0#PHP" expanded="false" />
+            <element signature="e#514#615#0#PHP" expanded="false" />
+            <element signature="e#645#724#0#PHP" expanded="false" />
+            <element signature="e#758#836#0#PHP" expanded="false" />
+            <element signature="e#867#944#0#PHP" expanded="false" />
+            <element signature="e#973#1052#0#PHP" expanded="false" />
+            <element signature="e#1085#1140#0#PHP" expanded="false" />
+            <element signature="e#1145#1206#0#PHP" expanded="false" />
+            <element signature="e#1212#1307#0#PHP" expanded="false" />
+            <element signature="e#1312#1418#0#PHP" expanded="false" />
+            <element signature="e#1424#1482#0#PHP" expanded="false" />
+            <element signature="e#1487#1556#0#PHP" expanded="false" />
+            <element signature="e#1562#1663#0#PHP" expanded="false" />
+            <element signature="e#1668#1786#0#PHP" expanded="false" />
+            <element signature="e#1792#1853#0#PHP" expanded="false" />
+            <element signature="e#1858#1933#0#PHP" expanded="false" />
+            <element signature="e#1938#1968#0#PHP" expanded="false" />
+            <element signature="e#1973#2333#0#PHP" expanded="false" />
+            <element signature="e#2339#2469#0#PHP" expanded="false" />
+            <element signature="e#2474#2633#0#PHP" expanded="false" />
+            <element signature="e#2639#2742#0#PHP" expanded="false" />
+            <element signature="e#2747#2894#0#PHP" expanded="false" />
+            <element signature="e#2900#2996#0#PHP" expanded="false" />
+            <element signature="e#3001#3080#0#PHP" expanded="false" />
+            <element signature="e#3086#3211#0#PHP" expanded="false" />
+            <element signature="e#3216#3366#0#PHP" expanded="false" />
+            <element signature="e#3372#3470#0#PHP" expanded="false" />
+            <element signature="e#3475#3613#0#PHP" expanded="false" />
+            <element signature="e#3619#3713#0#PHP" expanded="false" />
+            <element signature="e#3718#3793#0#PHP" expanded="false" />
+            <element signature="e#3799#3921#0#PHP" expanded="false" />
+            <element signature="e#3926#4071#0#PHP" expanded="false" />
+            <element signature="e#4077#4172#0#PHP" expanded="false" />
+            <element signature="e#4177#4310#0#PHP" expanded="false" />
+            <element signature="e#4316#4409#0#PHP" expanded="false" />
+            <element signature="e#4414#4487#0#PHP" expanded="false" />
+            <element signature="e#4493#4623#0#PHP" expanded="false" />
+            <element signature="e#4628#4787#0#PHP" expanded="false" />
+            <element signature="e#4793#4896#0#PHP" expanded="false" />
+            <element signature="e#4901#5048#0#PHP" expanded="false" />
+            <element signature="e#5054#5150#0#PHP" expanded="false" />
+            <element signature="e#5155#5234#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#46#103#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/public/css/cerulean-boostwash.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/telefono/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/template.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Resources/views/Template/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16943522">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diretorioBundle/Entity/Direccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+          <folding>
+            <element signature="e#235#374#0#PHP" expanded="false" />
+            <element signature="e#397#495#0#PHP" expanded="false" />
+            <element signature="e#522#674#0#PHP" expanded="false" />
+            <element signature="e#702#789#0#PHP" expanded="false" />
+            <element signature="e#823#919#0#PHP" expanded="false" />
+            <element signature="e#950#1031#0#PHP" expanded="false" />
+            <element signature="e#1064#1119#0#PHP" expanded="false" />
+            <element signature="e#1124#1185#0#PHP" expanded="false" />
+            <element signature="e#1190#1220#0#PHP" expanded="false" />
+            <element signature="e#1225#1509#0#PHP" expanded="false" />
+            <element signature="e#1515#1612#0#PHP" expanded="false" />
+            <element signature="e#1617#1723#0#PHP" expanded="false" />
+            <element signature="e#1729#1787#0#PHP" expanded="false" />
+            <element signature="e#1792#1861#0#PHP" expanded="false" />
+            <element signature="e#1867#1991#0#PHP" expanded="false" />
+            <element signature="e#1996#2145#0#PHP" expanded="false" />
+            <element signature="e#2151#2235#0#PHP" expanded="false" />
+            <element signature="e#2317#2456#0#PHP" expanded="false" />
+            <element signature="e#2461#2631#0#PHP" expanded="false" />
+            <element signature="e#2637#2747#0#PHP" expanded="false" />
+            <element signature="e#2752#2910#0#PHP" expanded="false" />
+            <element signature="e#2916#3014#0#PHP" expanded="false" />
+            <element signature="e#3019#3102#0#PHP" expanded="false" />
+            <element signature="e#3108#3235#0#PHP" expanded="false" />
+            <element signature="e#3240#3390#0#PHP" expanded="false" />
+            <element signature="e#3396#3494#0#PHP" expanded="false" />
+            <element signature="e#3499#3637#0#PHP" expanded="false" />
+            <element signature="e#3643#3737#0#PHP" expanded="false" />
+            <element signature="e#3742#3817#0#PHP" expanded="false" />
+            <element signature="e#3823#3955#0#PHP" expanded="false" />
+            <element signature="e#3960#4119#0#PHP" expanded="false" />
+            <element signature="e#4125#4228#0#PHP" expanded="false" />
+            <element signature="e#4233#4380#0#PHP" expanded="false" />
+            <element signature="e#4386#4482#0#PHP" expanded="false" />
+            <element signature="e#4487#4566#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
